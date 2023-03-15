@@ -17,3 +17,9 @@
     <img alt="Youtube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png" width="200px">
   </a> -->
 </p>
+
+<a href="https://www.visibait.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=lukman-nov&show_icons=true&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukman-nov&layout=compact&show_icons=true&theme=dark" /></a>
+
+<hr>
+
+<p align="center">©️ <a href="https://www.youtube.com/channel/UCCbuILiiNcuJsOb-sLM95oQ">Lukman Novawiyadi</a> 2023 - All rights reserved.</p>
