@@ -8,11 +8,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
-<div align="center">
-  <a href="https://discord.gg/BuACxn4XUw" title="Discord">
-    <img alt="Discord Invite" src="https://discordapp.com/api/guilds/901445288881963059/widget.png?style=banner2">
-   </a>
-  
 ![Lukman_nov](https://github-readme-stats.vercel.app/api?username=lukman-nov&show_icons=true&theme=dark&hide=contribs)
 <hr>
 </div>
